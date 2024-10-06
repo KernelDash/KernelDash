@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Lazar
+- 👀 I’m interested in Programming, Web Development, Linux and Gaming
+- 🌱 I’m currently learning Web Development
+- 📫 How to reach me Discord-Server: https://discord.gg/qTBxhxcFCQ
+- 😄 Pronouns: He/Him/His
