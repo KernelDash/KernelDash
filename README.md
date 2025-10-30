@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Lazar
-- 👀 I’m interested in Programming, Web Development, Linux and Gaming
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me Discord-Server: https://discord.gg/qTBxhxcFCQ
-- 😄 Pronouns: He/Him/His
+# Hi there, I'm KernelDash
+
+I'm a 13 year old programmer, gamer and tech enthusiast from 🇲🇰 Macedonia, obsessed with programming, graphics, and Linux.
